@@ -1,0 +1,24 @@
+The child process begins.
+Child's report:  current value = 81
+Child's report:  current value = 81
+Child's report:  current value = 81
+Child's report:  current value = 81
+Child's report:  current value = 81
+Child's report:  current value = 81
+Child's report:  current value = 81
+Child's report:  current value = 81
+Child's report:  current value = 81
+Child's report:  current value = 81
+The child is done
+The parent process begins.
+Parent's report: current index =  0
+Parent's report: current index =  1
+Parent's report: current index =  2
+Parent's report: current index =  3
+Parent's report: current index =  4
+Parent's report: current index =  5
+Parent's report: current index =  6
+Parent's report: current index =  7
+Parent's report: current index =  8
+Parent's report: current index =  9
+The parent is done
