@@ -1,0 +1,1 @@
+date > myfile2 && who >> myfile2 && more myfile2
